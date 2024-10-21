@@ -84,8 +84,9 @@ To set up the project locally, follow these steps:
 Once the environment is set up, you can run the notebook to train the model and predict customer churn. The notebook includes:
 
 1. **Data Preprocessing:** Feature scaling, encoding categorical variables.
-2. **Model Training:** Train Logistic Regression, Random Forest, and ANN models.
-3. **Model Evaluation:** Evaluate the trained models on test data and visualize performance metrics.
+2. **Model Training:** Train on total 7 type of models - Logistic Regression, Random Forest, KNN, Naive Bayes, SVC, Gradient Boosting and ANN
+3. **Model Evaluation:** - Evaluate the trained models on test data and visualize performance metrics (Accuracy, Precision, Recall)
+   - Also obtain Confusion Matrix and error distribution curve for each model to check their efficacy
 
 ## Results
 
