@@ -41,7 +41,7 @@ The dataset used in this project includes customer information such as:
 - **Is Active Member**
 - **Exited (Target variable indicating churn)**
 
-The dataset can be found [here](https://www.kaggle.com/shubhendra247/customer-churn-prediction).
+The dataset is attached in the csv file
 
 ## Model Development
 
@@ -85,7 +85,8 @@ Once the environment is set up, you can run the notebook to train the model and 
 
 1. **Data Preprocessing:** Feature scaling, encoding categorical variables.
 2. **Model Training:** Train on total 7 type of models - Logistic Regression, Random Forest, KNN, Naive Bayes, SVC, Gradient Boosting and ANN
-3. **Model Evaluation:** - Evaluate the trained models on test data and visualize performance metrics (Accuracy, Precision, Recall)
+3. **Model Evaluation:**
+   - Evaluate the trained models on test data and visualize performance metrics (Accuracy, Precision, Recall)
    - Also obtain Confusion Matrix and error distribution curve for each model to check their efficacy
 
 ## Results
