@@ -93,9 +93,13 @@ The following table summarizes the performance of different models used in the p
 
 | Model                 | Accuracy | Precision | Recall |
 |-----------------------|----------|-----------|--------|
-| Logistic Regression    | 84%      | 0.79      | 0.85   |
-| Random Forest          | 88%      | 0.81      | 0.89   |
-| Artificial Neural Network | 90%   | 0.83      | 0.92   |
+| Logistic Regression    | 81%      | 0.78      | 0.81   |
+| Random Forest          | 86%      | 0.85      | 0.86   |
+| KNN                    | 83%      | 0.81      | 0.83   |
+| Naive Bayes            | 83%      | 0.81      | 0.83   |
+| SVC                    | 86%      | 0.85      | 0.86   |
+| Gradient Boosting      | 87%      | 0.86      | 0.87   |
+| ANN                    | 85%      | 0.89      | 0.87   |
 
 ### Visualizing Feature Importance:
 
