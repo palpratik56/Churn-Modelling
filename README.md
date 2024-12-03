@@ -29,6 +29,7 @@ The model was built using various machine learning algorithms and achieved high 
 - **Data Analysis Libraries:** Pandas, NumPy
 - **Data Visualization Libraries:** Matplotlib, Seaborn
 - **IDE:** Jupyter Notebook
+- **Framework:** Streamlit
 
 ## Dataset
 
